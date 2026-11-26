@@ -1,0 +1,15 @@
+# Local environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+captures/
+logs/
+backups/
+dist/
+settings.json
+settings.json.tmp
+docs/usb_link_diagnostic.json
+.env
+.env.*
